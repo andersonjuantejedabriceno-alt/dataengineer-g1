@@ -1,1 +1,3 @@
 git init: Sirve para inicializar un folder y volverlo repositorio
+git status: Sirve para ver e estado actual del repositorio
+      
